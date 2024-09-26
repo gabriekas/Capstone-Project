@@ -37,6 +37,7 @@ The analysis identified a mix of strong financial performance and high initial c
 - Lifetime Value (CLV) as well as the implementation of A/B testing to drive continuous improvement.  
 
 # Access Analysis Report and Interactive Dashboard
-- [Interactive Tableau Dashboard](https://public.tableau.com/views/TheLookEcommerceCustomerBehaviourIn2023/OVERVIEW?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)  
 
 - [Report of The Look E-Commerce Customer Behaviour Analysis In 2023](https://docs.google.com/document/d/15aqCreWAeGGJLCL5gSx_dJ5vmc1XNrrN-hocH_Z540k/edit?usp=sharing)  
+
+- [Interactive Tableau Dashboard](https://public.tableau.com/views/TheLookEcommerceCustomerBehaviourIn2023/OVERVIEW?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)  
