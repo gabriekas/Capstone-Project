@@ -1,7 +1,7 @@
 # Customer Behavioural Analysis For "The Look" E-Commerce Business In 2023
 
 ## Project Description
-In the rapidly evolving eCommerce landscape, customer behavioural analysis is crucial for businesses to remain competitive. Thus, current project aimed to answer how a fictitious E-Commerce clothing site "The Look" could maintain its industry competetiviness. To answer this question, three key methodologies were employed:  
+In the rapidly evolving eCommerce landscape, customer behavioural analysis is crucial for businesses to remain competitive. Thus, current project aimed to answer how a fictitious E-Commerce clothing site "The Look" could maintain its industry competetiviness. To answer this question, three key methodologies were employed:   
     - **_Funnel Analysis_**  
     - **_RFM (recency, frequency and monetary) Customer Segmentation_**  
     - **_Cohort Analysis_**  
@@ -15,7 +15,7 @@ SQL queries were developed to aggregate data for the above analyses implementati
 
 ## Disclaimer
 _The project was performed for learning purposes. Insights should not be taken as a professional advice._  
-  
+
 _A human error occured where **Deutschland** was mistakenly identified as **Dutch**. Due to the daily updates of historical data, this error was not solved at the time of the analysis. For the purposes of this analysis, been **Deutschland** is assumed to refer to the **Netherlands**._  
 
 ## Prerequisites
