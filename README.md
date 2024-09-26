@@ -2,9 +2,9 @@
 
 ## Project Description
 In the rapidly evolving eCommerce landscape, customer behavioural analysis is crucial for businesses to remain competitive. Thus, current project aimed to answer how a fictitious E-Commerce clothing site "The Look" could maintain its industry competetiviness. To answer this question, three key methodologies were employed:   
-    - **_Funnel Analysis_**  
-    - **_RFM (recency, frequency and monetary) Customer Segmentation_**  
-    - **_Cohort Analysis_**  
+- **_Funnel Analysis_**  
+- **_RFM (recency, frequency and monetary) Customer Segmentation_**  
+- **_Cohort Analysis_**  
 
 SQL queries were developed to aggregate data for the above analyses implementation. All aggregated data was exported as CSV files on September 12th, 2024, to maintain continuity as historical data undergoes daily updates. Thereafter, the data was imported to Tableau  for visualisation. The data was displayed in an interactive dashboard with four main sections: an overview, funnel analysis, RFM segmentation, and cohort analysis. The preview of the dashboard is available on [Tableau Public](https://public.tableau.com/views/TheLookEcommerceCustomerBehaviourIn2023/OVERVIEW?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link).   
 
