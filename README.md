@@ -16,7 +16,7 @@ SQL queries were developed to aggregate data for the above analyses implementati
 ## Disclaimer
 _The project was performed for learning purposes. Insights should not be taken as a professional advice._  
 
-_A human error occured where **Deutschland** was mistakenly identified as **Dutch**. Due to the daily updates of historical data, this error was not solved at the time of the analysis. For the purposes of this analysis, been **Deutschland** is assumed to refer to the **Netherlands**._  
+_A human error occured where **Deutschland** was mistakenly identified as **Dutch**. Due to the daily updates of historical data, this error was not solved at the time of the analysis. For the purposes of this analysis, **Deutschland** is assumed to refer to the **Netherlands**._  
 
 ## Prerequisites
 To run the project, the following is required:  
