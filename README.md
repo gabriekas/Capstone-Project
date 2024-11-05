@@ -33,8 +33,7 @@ The analysis identified a mix of strong financial performance and high initial c
 - Personalised marketing campaigns tailored to specific customer segments.  
 - Country specific marketing strategies to target underperforming regions.  
 - Customer surveys to gather feedback from high order return and cancellation segments.  
-- Further exploration of checkout processes, product quality, and Customer 
-- Lifetime Value (CLV) as well as the implementation of A/B testing to drive continuous improvement.  
+- Further exploration of checkout processes, product quality, and Customer Lifetime Value (CLV) as well as the implementation of A/B testing to drive continuous improvement.  
 
 # Access Analysis Report and Interactive Dashboard
 
